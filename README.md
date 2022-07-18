@@ -1,12 +1,13 @@
-=====================================================================
-ADDRESS BOOK - GABSON 
-=====================================================================
 
-=============
-APP FEATURES
-=============
+<h2>ADDRESS BOOK - GABSON</h2> <br>
 
-Features are AJAX/Jquery enhanced
+<br>
+
+
+
+<h3>APP FEATURES</h3><p>
+
+<h4>Features are AJAX/Jquery enhanced</h4>
 
 - Create New Address
 - Update Addresses
@@ -16,35 +17,32 @@ Features are AJAX/Jquery enhanced
 
 
 
+<h3>STEPS TO RUN</h3>
 
-============
-STEPS TO RUN
-============
-
-====== STEP 1 ======
+<b> STEP 1</b><br>
 Create a database "addressbook" (of course you can call it whatever you wish) But make sure to edit the "config.php" file to match your custom database credentials
 
 
-====== STEP 2 ======
+<p><b> STEP 2</b><br>
 Import and execute the "setup.sql" on your database (or open on editor, copy and paste to sql tab on DB) 
 
 
-====== STEP 3 ======
+<p><b> STEP 3</b><br>
 Open index.php on your browser (localhost/path_to_file/index.php)
 
 
-All set! Enjoy!!!
+<p><br>All set! Enjoy!!!
 
 
 
 
-
-==========================================================================
-LINKS
+<p><p><b>
+ LINKS<br>
 m.youtube.com/channel/UC-0pE-IwB5ydhm0uCwNfjeg/videos    - YouTube
-https://github.com/AmGabson                              - Github
-+2349072900561                                           - WhatsApp
-Augustine Gabriel (Gabson)                               - Facebook (as Twigbase FB page)
-augustinegabriel2939@gmail.com                           - Gmail
+<br>https://github.com/AmGabson                              - Github
+<br>+2349072900561                                           - WhatsApp
+<br>Augustine Gabriel (Gabson)                               - Facebook (as Twigbase FB page)
+<br>augustinegabriel2939@gmail.com                           - Gmail
+ </b>
 
 
