@@ -36,13 +36,16 @@ Open index.php on your browser (localhost/path_to_file/index.php)
 
 
 
-<p><p><b>
- LINKS<br>
-m.youtube.com/channel/UC-0pE-IwB5ydhm0uCwNfjeg/videos    - YouTube
-<br>https://github.com/AmGabson                              - Github
-<br>+2349072900561                                           - WhatsApp
-<br>Augustine Gabriel (Gabson)                               - Facebook (as Twigbase FB page)
-<br>augustinegabriel2939@gmail.com                           - Gmail
- </b>
+
+<p><br>
+====================
+LINKS<p>
+
+- YouTube - m.youtube.com/channel/UC-0pE-IwB5ydhm0uCwNfjeg/videos<br>   
+- Github - https://github.com/AmGabson <br>                              
+- WhatsApp - +2349072900561       <br>                                   
+- FB - Augustine Gabriel (Gabson)     <br>                           
+- Mail - augustinegabriel2939@gmail.com      <br>                      
+
 
 
