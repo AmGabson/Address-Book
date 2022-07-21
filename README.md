@@ -39,7 +39,7 @@ Open index.php on your browser (localhost/path_to_file/index.php)
 
 <p><br>
 ====================
-LINKS<p>
+<br>LINKS<p>
 
 - YouTube - m.youtube.com/channel/UC-0pE-IwB5ydhm0uCwNfjeg/videos<br>   
 - Github - https://github.com/AmGabson <br>                              
